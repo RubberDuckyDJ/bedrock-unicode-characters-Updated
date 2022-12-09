@@ -15,7 +15,11 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 |             B Button             |    Xbox     |          |  U+E001 |            ![](./images/xbox-b.png)            |
 |             X Button             |    Xbox     |          |  U+E002 |            ![](./images/xbox-x.png)            |
 |             Y Button             |    Xbox     |          |  U+E003 |            ![](./images/xbox-y.png)            |
-|             LB Button            |    Xbox     |          |  U+E004 |            ![](./images/xbox-lb.png)           |
+|             A Button Pressed     |    Xbox     |          |  U+E010 |            ![](./images/xbox-a.png)            |
+|             B Button Pressed     |    Xbox     |          |  U+E011 |            ![](./images/xbox-b.png)            |
+|             X Button Pressed     |    Xbox     |          |  U+E012 |            ![](./images/xbox-x.png)            |
+|             Y Button Pressed     |    Xbox     |          |  U+E013 |            ![](./images/xbox-y.png)            |
+|             LB Button            |    Xbox     |          |  U+E014 |            ![](./images/xbox-lb.png)           |
 |             RB Button            |    Xbox     |          |  U+E005 |            ![](./images/xbox-rb.png)           |
 |             LT Button            |    Xbox     |          |  U+E006 |            ![](./images/xbox-lt.png)           |
 |             RT Button            |    Xbox     |          |  U+E007 |            ![](./images/xbox-rt.png)           |
